@@ -1,0 +1,3 @@
+git add <ścieżka>
+git comit -n "opis"
+git push
